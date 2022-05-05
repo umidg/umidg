@@ -24,8 +24,6 @@ Aside from my technical competencies, on a personal level, I also have a talent 
 
 <br/>  
 
-
-## Rapidfire  
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on the Vscode extension 💪  
@@ -76,22 +74,22 @@ Aside from my technical competencies, on a personal level, I also have a talent 
 
 <br/>  
 
+  
+
+<br/>  
+
 
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=umidg&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=umidg&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 100%" /></div>
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidg
-&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umidg
+&hide_border=true&layout=compact" align="center" style="width: 100%" /></div>
 
 </td></tr></table>  
-
-<br/>  
-
-  
 
 <br/>  
 
