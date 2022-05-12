@@ -14,12 +14,12 @@
 
 
 
-### Glad to see you here!  
+<!-- ### Glad to see you here!  
 With more than four years of experience in full-stack development, I can ease the pain of both frontend and backend. I have designed and developed several products during my experience.
 
 I can find creative solutions to technical challenges, whilst at the same time designing a sleek and visually appealing application. I have developed and delivered applications, and software for various clients, while working as a freelancer.
 
-Aside from my technical competencies, on a personal level, I also have a talent for building close relationships with other specialists. I possess the communication skills needed to get the best out of others and to get everyone pushing in the same direction.  
+Aside from my technical competencies, on a personal level, I also have a talent for building close relationships with other specialists. I possess the communication skills needed to get the best out of others and to get everyone pushing in the same direction.   -->
   
 
 <br/>  
