@@ -29,10 +29,10 @@ Aside from my technical competencies, on a personal level, I also have a talent 
 - 🔭 I’m currently working on the Vscode extension 💪  
   
 
-- 🌱 I’m currently learning Typescript and CI/CD pipelines.  
+- 🌱 I’m currently learning Artificial Intelligence and Machine Learning.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- ❓ Ask me about anything related to AI/ML, MERN stack, CI/CD, Typescript, Python, AWS and related technologies.  
   
 
 - ⚡ Fun fact: I love what I do.  
